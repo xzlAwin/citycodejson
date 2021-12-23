@@ -21477,94 +21477,92 @@ var cityData={
   {
     "label": "马尔代夫",
     "value": "MDV",
-    
-      "children": [
-        {
+    	"children": [
+    		{
+          "label": "马累",
+          "value": "MAL"
+        },
+    		{
           "label": "阿杜",
           "value": "ADD"
         },
         {
-          "label": "北阿里",
-          "value": "AAD"
-        },
-        {
-          "label": "北蒂拉杜马蒂",
+          "label": "北蒂拉杜马蒂环礁",
           "value": "THD"
         },
         {
-          "label": "北马洛斯马杜卢",
-          "value": "MAD"
-        },
-        {
-          "label": "北米拉杜马杜卢",
-          "value": "MLD"
-        },
-        {
-          "label": "北尼兰杜",
-          "value": "NAD"
-        },
-        {
-          "label": "北苏瓦迪瓦",
-          "value": "HAD"
-        },
-        {
-          "label": "法迪福卢",
-          "value": "FAA"
-        },
-        {
-          "label": "费利杜",
-          "value": "FEA"
-        },
-        {
-          "label": "福阿穆拉库",
-          "value": "FMU"
-        },
-        {
-          "label": "哈杜马蒂",
-          "value": "HDH"
-        },
-        {
-          "label": "科卢马杜卢",
-          "value": "KLH"
-        },
-        {
-          "label": "马累",
-          "value": "MAL"
-        },
-        {
-          "label": "马累岛",
-          "value": "MAA"
-        },
-        {
-          "label": "穆拉库",
-          "value": "MUA"
-        },
-        {
-          "label": "南阿里",
-          "value": "AAU"
-        },
-        {
-          "label": "南蒂拉杜马蒂",
+          "label": "南蒂拉杜马蒂环礁",
           "value": "THU"
         },
         {
-          "label": "南马洛斯马杜卢",
-          "value": "MAU"
+          "label": "北米拉杜马杜卢环礁",
+          "value": "MLD"
         },
         {
-          "label": "南米拉杜马杜卢",
+          "label": "南米拉杜马杜卢环礁",
           "value": "MLU"
         },
         {
-          "label": "南尼兰杜",
+          "label": "北马洛斯马杜卢环礁",
+          "value": "MAD"
+        },
+        {
+          "label": "南马洛斯马杜卢环礁",
+          "value": "MAU"
+        },
+        {
+          "label": "法迪福卢环礁",
+          "value": "FAA"
+        },
+        {
+          "label": "马累环礁",
+          "value": "MAA"
+        },
+        {
+          "label": "北阿里环礁",
+          "value": "AAD"
+        },
+        {
+          "label": "南阿里环礁",
+          "value": "AAU"
+        },
+        {
+          "label": "费利杜环礁",
+          "value": "FEA"
+        },
+        {
+          "label": "穆拉库环礁",
+          "value": "MUA"
+        },
+        {
+          "label": "北尼兰杜环礁",
+          "value": "NAD"
+        },
+        {
+          "label": "南尼兰杜环礁",
           "value": "NAU"
         },
         {
-          "label": "南苏瓦迪瓦",
+          "label": "科卢马杜卢环礁",
+          "value": "KLH"
+        },
+        {
+          "label": "哈杜马蒂环礁",
+          "value": "HDH"
+        },
+        {
+          "label": "北苏瓦迪瓦环礁",
+          "value": "HAD"
+        },
+        {
+          "label": "南苏瓦迪瓦环礁",
           "value": "HAU"
+        },
+        {
+          "label": "福阿穆拉库环礁",
+          "value": "FMU"
         }
-      ]
-    
+    	]
   },
   {
     "label": "马耳他",
