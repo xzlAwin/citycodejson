@@ -25098,201 +25098,482 @@ var cityData={
     "label": "乔治亚",
     "value": "GEO"
   },
+  
   {
-    "label": "日本",
-    "value": "JPN",
-    
-      "children": [
-        {
-          "label": "爱媛",
-          "value": "38"
-        },
-        {
-          "label": "爱知",
-          "value": "23"
-        },
-        {
+  	"label": "日本",
+  	"value": "JPN",
+  	"children": [
+  		{
+  			"label": "东京都",
+        "value": "13",
+        "children": [
+        	{
+        		"label": "东京市",
+      			"value": "01"
+        	}
+        ]
+  		},
+  		{
           "label": "北海道",
-          "value": "01"
-        },
-        {
-          "label": "兵库",
-          "value": "28"
-        },
-        {
-          "label": "冲绳",
-          "value": "47"
-        },
-        {
-          "label": "茨城",
-          "value": "08"
-        },
-        {
-          "label": "大阪",
-          "value": "27"
-        },
-        {
-          "label": "大分",
-          "value": "44"
-        },
-        {
-          "label": "岛根",
-          "value": "32"
-        },
-        {
-          "label": "徳岛",
-          "value": "36"
-        },
-        {
-          "label": "东京",
-          "value": "13"
-        },
-        {
-          "label": "福岛",
-          "value": "07"
-        },
-        {
-          "label": "福冈",
-          "value": "40"
-        },
-        {
-          "label": "福井",
-          "value": "18"
-        },
-        {
-          "label": "富山",
-          "value": "16"
-        },
-        {
-          "label": "冈山",
-          "value": "33"
-        },
-        {
-          "label": "高知",
-          "value": "39"
-        },
-        {
-          "label": "宮城",
-          "value": "04"
-        },
-        {
-          "label": "宫崎",
-          "value": "45"
-        },
-        {
-          "label": "广岛",
-          "value": "34"
-        },
-        {
-          "label": "和歌山",
-          "value": "30"
-        },
-        {
-          "label": "京都",
-          "value": "26"
-        },
-        {
-          "label": "静冈",
-          "value": "22"
-        },
-        {
-          "label": "枥木",
-          "value": "09"
-        },
-        {
-          "label": "鹿儿岛",
-          "value": "46"
-        },
-        {
-          "label": "奈良",
-          "value": "29"
-        },
-        {
-          "label": "鸟取",
-          "value": "31"
-        },
-        {
-          "label": "岐阜",
-          "value": "21"
-        },
-        {
-          "label": "埼玉",
-          "value": "11"
-        },
-        {
-          "label": "千叶",
-          "value": "12"
-        },
-        {
-          "label": "青森",
-          "value": "02"
-        },
-        {
-          "label": "秋田",
-          "value": "05"
-        },
-        {
-          "label": "群马",
-          "value": "10"
-        },
-        {
-          "label": "三重",
-          "value": "24"
-        },
-        {
-          "label": "山口",
-          "value": "35"
-        },
-        {
-          "label": "山梨",
-          "value": "19"
-        },
-        {
-          "label": "山形",
-          "value": "06"
-        },
-        {
-          "label": "神奈川",
-          "value": "14"
-        },
-        {
-          "label": "石川",
-          "value": "17"
-        },
-        {
-          "label": "香川",
-          "value": "37"
-        },
-        {
-          "label": "新潟",
-          "value": "15"
-        },
-        {
-          "label": "熊本",
-          "value": "43"
-        },
-        {
-          "label": "岩手",
-          "value": "03"
-        },
-        {
-          "label": "长崎",
-          "value": "42"
-        },
-        {
-          "label": "长野",
-          "value": "20"
-        },
-        {
-          "label": "滋贺",
-          "value": "25"
-        },
-        {
-          "label": "佐贺",
-          "value": "41"
-        }
-      ]
-    
+          "value": "01",
+          "children": [
+          	{
+          		"label": "札幌市",
+        			"value": "01"
+          	}
+          ]
+      },
+      {
+          "label": "青森县",
+          "value": "02",
+          "children": [
+          	{
+          		"label": "青森市",
+        			"value": "01"
+          	}
+          ]
+      },
+      {
+          "label": "岩手县",
+          "value": "03",
+          "children": [
+          	{
+          		"label": "盛冈市",
+        			"value": "01"
+          	}
+          ]
+      },
+      {
+          "label": "宮城县",
+          "value": "04",
+          "children": [
+          	{
+          		"label": "仙台市",
+        			"value": "01"
+          	}
+          ]
+      },
+      {
+          "label": "秋田县",
+          "value": "05",
+          "children": [
+          	{
+          		"label": "秋田市",
+        			"value": "01"
+          	}
+          ]
+      },
+      {
+          "label": "山形县",
+          "value": "06",
+          "children": [
+          	{
+          		"label": "山形市",
+        			"value": "01"
+          	}
+          ]
+      },
+      {
+          "label": "福岛县",
+          "value": "07",
+          "children": [
+          	{
+          		"label": "福岛市",
+        			"value": "01"
+          	}
+          ]
+      },
+      {
+          "label": "茨城县",
+          "value": "08",
+          "children": [
+          	{
+          		"label": "水户市",
+        			"value": "01"
+          	}
+          ]
+      },
+      {
+          "label": "枥木县",
+          "value": "09",
+          "children": [
+          	{
+          		"label": "宇都宫市",
+        			"value": "01"
+          	}
+          ]
+      },
+      {
+          "label": "前桥市",
+          "value": "10",
+          "children": [
+          	{
+          		"label": "宇都宫市",
+        			"value": "01"
+          	}
+          ]
+      },
+      {
+          "label": "埼玉县",
+          "value": "11",
+          "children": [
+          	{
+          		"label": "埼玉市",
+        			"value": "01"
+          	}
+          ]
+      },
+      {
+        "label": "千叶县",
+        "value": "12",
+        "children": [
+        	{
+        		"label": "千叶市",
+      			"value": "01"
+        	}
+        ]
+      },
+      {
+        "label": "神奈川县",
+        "value": "14",
+        "children": [
+        	{
+        		"label": "横浜市",
+      			"value": "01"
+        	}
+        ]
+      },
+      {
+        "label": "新潟县",
+        "value": "15",
+        "children": [
+        	{
+        		"label": "新潟市",
+      			"value": "01"
+        	}
+        ]
+      },
+      {
+          "label": "富山县",
+          "value": "16",
+          "children": [
+	        	{
+	        		"label": "富山市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "石川县",
+          "value": "17",
+          "children": [
+	        	{
+	        		"label": "金泽市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "福井县",
+          "value": "18",
+          "children": [
+	        	{
+	        		"label": "福井市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "山梨县",
+          "value": "19",
+          "children": [
+	        	{
+	        		"label": "甲府市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "长野县",
+          "value": "20",
+          "children": [
+	        	{
+	        		"label": "长野市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "岐阜县",
+          "value": "21",
+          "children": [
+	        	{
+	        		"label": "岐阜市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "静冈县",
+          "value": "22",
+          "children": [
+	        	{
+	        		"label": "静冈市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "爱知县",
+          "value": "23",
+          "children": [
+	        	{
+	        		"label": "名古屋市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "三重县",
+          "value": "24",
+          "children": [
+	        	{
+	        		"label": "津市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "滋贺县",
+          "value": "25",
+          "children": [
+	        	{
+	        		"label": "大津市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "京都府",
+          "value": "26",
+          "children": [
+	        	{
+	        		"label": "京都市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "大阪府",
+          "value": "27",
+          "children": [
+	        	{
+	        		"label": "大阪市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "兵库县",
+          "value": "28",
+          "children": [
+	        	{
+	        		"label": "神戸市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "奈良县",
+          "value": "29",
+          "children": [
+	        	{
+	        		"label": "奈良市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "和歌山县",
+          "value": "30",
+          "children": [
+	        	{
+	        		"label": "和歌山市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "鸟取县",
+          "value": "31",
+          "children": [
+	        	{
+	        		"label": "鸟取市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "岛根县",
+          "value": "32",
+          "children": [
+	        	{
+	        		"label": "松江市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "冈山县",
+          "value": "33",
+          "children": [
+	        	{
+	        		"label": "冈山市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "广岛县",
+          "value": "34",
+          "children": [
+	        	{
+	        		"label": "广岛市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "山口县",
+          "value": "35",
+          "children": [
+	        	{
+	        		"label": "山口市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "徳岛县",
+          "value": "36",
+          "children": [
+	        	{
+	        		"label": "徳岛市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "香川县",
+          "value": "37",
+          "children": [
+	        	{
+	        		"label": "高松市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "爱媛县",
+          "value": "38",
+          "children": [
+	        	{
+	        		"label": "松山市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "高知县",
+          "value": "39",
+          "children": [
+	        	{
+	        		"label": "高知市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "福冈县",
+          "value": "40",
+          "children": [
+	        	{
+	        		"label": "福冈市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "佐贺县",
+          "value": "41",
+          "children": [
+	        	{
+	        		"label": "佐贺市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "长崎县",
+          "value": "42",
+          "children": [
+	        	{
+	        		"label": "长崎市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "熊本县",
+          "value": "43",
+          "children": [
+	        	{
+	        		"label": "熊本市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "大分县",
+          "value": "44",
+          "children": [
+	        	{
+	        		"label": "大分市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "宫崎县",
+          "value": "45",
+          "children": [
+	        	{
+	        		"label": "宫崎市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "鹿儿岛县",
+          "value": "46",
+          "children": [
+	        	{
+	        		"label": "鹿儿岛市",
+	      			"value": "01"
+	        	}
+	        ]
+      },
+      {
+          "label": "冲绳县",
+          "value": "47",
+          "children": [
+	        	{
+	        		"label": "那霸市",
+	      			"value": "01"
+	        	}
+	        ]
+      }
+  	]
   },
   {
     "label": "瑞典",
