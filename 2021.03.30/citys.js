@@ -19757,146 +19757,222 @@ var cityData={
   {
     "label": "加拿大",
     "value": "CAN",
-    
-      "children": [
-        {
-          "label": "阿伯茨福",
-          "value": "ABB"
-        },
-        {
-          "label": "埃德蒙顿",
-          "value": "EDM"
-        },
-        {
-          "label": "奥沙瓦",
-          "value": "OSH"
-        },
-        {
-          "label": "巴里",
-          "value": "BAR"
-        },
-        {
-          "label": "布列塔尼角",
-          "value": "CBR"
-        },
-        {
-          "label": "多伦多",
-          "value": "TOR"
-        },
-        {
-          "label": "弗雷德里顿",
-          "value": "FRE"
-        },
-        {
-          "label": "圭尔夫",
-          "value": "GLP"
-        },
-        {
-          "label": "哈利法克斯",
-          "value": "HAL"
-        },
-        {
-          "label": "哈密尔顿",
-          "value": "HAM"
-        },
-        {
-          "label": "怀特霍斯",
-          "value": "YXY"
-        },
-        {
-          "label": "基劳纳",
-          "value": "KWL"
-        },
-        {
-          "label": "基奇纳",
-          "value": "BRP"
-        },
-        {
-          "label": "金斯敦",
-          "value": "KGN"
-        },
-        {
-          "label": "卡里加里",
-          "value": "CAL"
-        },
-        {
-          "label": "魁北克",
-          "value": "QUE"
-        },
-        {
-          "label": "里贾纳",
-          "value": "REG"
-        },
-        {
-          "label": "伦敦",
-          "value": "LOD"
-        },
-        {
-          "label": "蒙特利尔",
-          "value": "MTR"
-        },
-        {
-          "label": "萨德伯里",
-          "value": "SUD"
-        },
-        {
-          "label": "萨斯卡通",
-          "value": "SAK"
-        },
-        {
-          "label": "三河城",
-          "value": "TRR"
-        },
-        {
-          "label": "桑德贝",
-          "value": "THU"
-        },
-        {
-          "label": "舍布鲁克",
-          "value": "SBE"
-        },
-        {
-          "label": "圣卡塔琳娜",
-          "value": "SCA"
-        },
-        {
-          "label": "圣约翰斯",
-          "value": "SJB"
-        },
-        {
-          "label": "维多利亚",
-          "value": "VIC"
-        },
-        {
-          "label": "温哥华",
-          "value": "VAN"
-        },
-        {
-          "label": "温尼伯",
-          "value": "WNP"
-        },
-        {
-          "label": "温莎",
-          "value": "WDR"
-        },
-        {
-          "label": "渥太华",
-          "value": "OTT"
-        },
-        {
-          "label": "夏洛特敦",
-          "value": "CHA"
-        },
-        {
-          "label": "耶洛奈夫",
-          "value": "YZF"
-        },
-        {
-          "label": "伊魁特",
-          "value": "IQL"
-        }
-      ]
-    
+    "children": [
+    	{
+        "label": "渥太华",
+        "value": "OTT"
+      },
+    	{
+    		"label": "安大略省",
+    		"value": "01",
+    		"children": [
+    			{
+	          "label": "多伦多",
+	          "value": "TOR"
+	        },
+	        {
+	          "label": "圭尔夫",
+	          "value": "GLP"
+	        },
+	        {
+	          "label": "哈密尔顿",
+	          "value": "HAM"
+	        },
+    			{
+	          "label": "奥沙瓦",
+	          "value": "OSH"
+	        },
+	        {
+	          "label": "巴里",
+	          "value": "BAR"
+	        },
+	        {
+	          "label": "基奇纳",
+	          "value": "BRP"
+	        },
+	        {
+	          "label": "金斯顿",
+	          "value": "KGN"
+	        },
+	        {
+	          "label": "伦敦",
+	          "value": "LOD"
+	        },
+	        {
+	          "label": "萨德伯里",
+	          "value": "SUD"
+	        },
+	        {
+	          "label": "桑德贝",
+	          "value": "THU"
+	        },
+	        {
+	          "label": "圣卡塔琳娜",
+	          "value": "SCA"
+	        },
+	        {
+	          "label": "温莎",
+	          "value": "WDR"
+	        }
+    		]
+    	},
+    	{
+    		"label": "魁北克省",
+    		"value": "02",
+    		"children": [
+    			{
+	          "label": "魁北克",
+	          "value": "QUE"
+	        },
+	        {
+	          "label": "蒙特利尔",
+	          "value": "MTR"
+	        },
+	        {
+	          "label": "三河城",
+	          "value": "TRR"
+	        },
+	        {
+	          "label": "舍布鲁克",
+	          "value": "SBE"
+	        }
+    		]
+    	},
+    	{
+    		"label": "新斯科舍省",
+    		"value": "03",
+    		"children": [
+    			{
+	          "label": "哈利法克斯",
+	          "value": "HAL"
+	        },
+    			{
+	          "label": "布列塔尼角",
+	          "value": "CBR"
+	        }
+    		]
+    	},
+    	{
+    		"label": "新不伦瑞克省",
+    		"value": "04",
+    		"children": [
+    			{
+	          "label": "弗雷德里顿",
+	          "value": "FRE"
+	        }
+    		]
+    	},
+    	{
+    		"label": "曼尼托巴省",
+    		"value": "05",
+    		"children": [
+    			{
+	          "label": "温尼伯",
+	          "value": "WNP"
+	        }
+    		]
+    	},
+    	{
+    		"label": "不列颠哥伦比亚省",
+    		"value": "06",
+    		"children": [
+    			{
+	          "label": "维多利亚",
+	          "value": "VIC"
+	        },
+    			{
+	          "label": "阿伯茨福",
+	          "value": "ABB"
+	        },
+	        {
+	          "label": "基劳纳",
+	          "value": "KWL"
+	        },
+	        {
+	          "label": "温哥华",
+	          "value": "VAN"
+	        }
+    		]
+    	},
+    	{
+    		"label": "爱德华王子岛省",
+    		"value": "07",
+    		"children": [
+    			{
+	          "label": "夏洛特敦",
+	          "value": "CHA"
+	        }
+    		]
+    	},
+    	{
+    		"label": "阿尔伯塔省",
+    		"value": "08",
+    		"children": [
+    			{
+	          "label": "埃德蒙顿",
+	          "value": "EDM"
+	        },
+	        {
+	          "label": "卡里加里",
+	          "value": "CAL"
+	        }
+    		]
+    	},
+    	{
+    		"label": "萨斯喀彻温省",
+    		"value": "09",
+    		"children": [
+    			{
+	          "label": "里贾纳",
+	          "value": "REG"
+	        },
+	        {
+	          "label": "萨斯卡通",
+	          "value": "SAK"
+	        }
+    		]
+    	},
+    	{
+    		"label": "纽芬兰与拉布拉多省",
+    		"value": "10",
+    		"children": [
+    			{
+	          "label": "圣约翰斯",
+	          "value": "SJB"
+	        }
+    		]
+    	},
+    	{
+    		"label": "西北地区",
+    		"value": "11",
+    		"children": [
+    			{
+	          "label": "耶洛奈夫",
+	          "value": "YZF"
+	        }
+    		]
+    	},
+    	{
+    		"label": "努纳武特地区",
+    		"value": "12",
+    		"children": [
+    			{
+	          "label": "伊魁特",
+	          "value": "IQL"
+	        }
+    		]
+    	},
+    	{
+    		"label": "育空地区",
+    		"value": "13",
+    		"children": [
+    			{
+	          "label": "怀特霍斯",
+	          "value": "YXY"
+	        }
+    		]
+    	}
+    ]
   },
   {
     "label": "加纳",
