@@ -15027,7 +15027,13 @@ var cityData={
         },
         {
           "label": "上奥地利",
-          "value": "UAU"
+          "value": "UAU",
+          "children": [
+          	{
+          		"label": "林茨",
+          		"value": "LNZ"
+          	}
+          ]
         },
         {
           "label": "施蒂利亚",
