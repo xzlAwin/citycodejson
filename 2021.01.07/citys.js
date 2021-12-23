@@ -14364,6 +14364,10 @@ var cityData={
       "value": "AZE",
       
         "children": [
+        	{
+            "label": "巴库",
+            "value": "BAK"
+          },
           {
             "label": "阿布歇隆",
             "value": "ABS"
