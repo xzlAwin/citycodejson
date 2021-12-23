@@ -17252,7 +17252,7 @@ var cityData={
     		"children": [
     			{
           	"label": "上塞纳省",
-          	"value": "92",
+          	"value": "92"
 		      },
 		      {
 	          "label": "瓦勒德马恩省",
@@ -17286,7 +17286,7 @@ var cityData={
     		"children": [
     			{
           	"label": "阿登省",
-          	"value": "08",
+          	"value": "08"
 		      },
 		      {
 	          "label": "马恩省",
@@ -17917,7 +17917,7 @@ var cityData={
         		{
           		"label": "比科尔大区",
           		"value": "05"
-        		},
+        		}
     			]
     		},
     		{
@@ -18454,7 +18454,6 @@ var cityData={
   {
     "label": "圭亚那",
     "value": "GUY",
-    
       "children": [
         {
           "label": "埃塞奎博群岛-西德梅拉拉",
@@ -25432,102 +25431,184 @@ var cityData={
   {
     "label": "萨尔瓦多",
     "value": "SLV",
-    
       "children": [
-        {
-          "label": "阿波帕",
-          "value": "APO"
-        },
-        {
-          "label": "阿瓦查潘",
-          "value": "AH"
-        },
-        {
-          "label": "滨海",
-          "value": "LI"
-        },
-        {
-          "label": "查拉特南戈",
-          "value": "CH"
-        },
-        {
-          "label": "德尔加多",
-          "value": "DE"
-        },
-        {
-          "label": "基埃-恩特姆",
-          "value": "KN"
-        },
-        {
-          "label": "卡瓦尼亚斯",
-          "value": "CA"
-        },
-        {
-          "label": "库斯卡特兰",
-          "value": "CU"
-        },
-        {
-          "label": "拉巴斯",
-          "value": "PZ"
-        },
-        {
-          "label": "拉利伯塔德",
-          "value": "LB"
-        },
-        {
-          "label": "拉乌尼翁",
-          "value": "UN"
-        },
-        {
-          "label": "梅基卡诺斯",
-          "value": "MEJ"
-        },
-        {
-          "label": "莫拉桑",
-          "value": "MO"
-        },
-        {
-          "label": "圣安娜",
-          "value": "SA"
-        },
-        {
-          "label": "圣米格尔",
-          "value": "SM"
-        },
-        {
-          "label": "圣萨尔瓦多",
-          "value": "SS"
-        },
-        {
-          "label": "圣维森特",
-          "value": "SV"
-        },
-        {
-          "label": "松索纳特",
-          "value": "SO"
-        },
-        {
-          "label": "索亚潘戈",
-          "value": "SOY"
-        },
-        {
-          "label": "韦莱-恩萨斯",
-          "value": "WN"
-        },
-        {
-          "label": "乌苏卢坦",
-          "value": "US"
-        },
-        {
-          "label": "伊洛潘戈",
-          "value": "IL"
-        },
-        {
-          "label": "中南",
-          "value": "CS"
-        }
+      	{
+      		"label": "阿瓦查潘", 
+      		"value": "01",
+      		"children": [
+      			{
+      				"label": "阿瓦查潘",
+      				"value": "AH"
+      			}
+      		]
+      	},
+      	{
+      		"label": "卡瓦尼亚斯" ,
+      		"value": "02",
+      		"children": [
+      			{
+      				"label": "森孙特佩克",
+      				"value": "01"
+      			}
+      		]
+      	},
+      	{
+      		"label": "查拉特南戈",
+      		"value": "03",
+      		"children": [
+      			{
+      				"label": "查拉特南戈",
+      				"value": "CH"
+      			}
+      		]
+      	},
+      	{
+      		"label": "库斯卡特兰",
+      		"value": "04",
+      		"children": [
+      			{
+      				"label": "科胡特佩克",
+      				"value": "01"
+      			}
+      		]
+      	},
+      	{
+      		"label": "拉利伯塔德", 
+      		"value": "05",
+      		"children": [
+      			{
+      				"label": "新圣萨尔瓦多",
+      				"value": "01"
+      			}
+      		]
+      	},
+      	{
+      		"label": "拉巴斯",
+      		"value": "06",
+      		"children": [
+      			{
+      				"label": "萨卡特科卢卡",
+      				"value": "01"
+      			}
+      		]
+      	},
+      	{
+      		"label": "拉乌尼翁",
+      		"value": "07",
+      		"children": [
+      			{
+      				"label": "拉乌尼翁", 
+      				"value": "UN"
+      			}
+      		]
+      	},
+      	{
+      		"label": "莫拉桑",
+      		"value": "08",
+      		"children": [
+      			{
+      				"label": "圣弗朗西斯科-戈特拉",
+      				"value": "01"
+      			}
+      		]
+      	},
+      	{
+      		"label": "圣米格尔",
+      		"value": "09",
+      		"children": [
+      			{
+      				"label": "圣米格尔",
+      				"value": "SM"
+      			}
+      		]
+      	},
+      	{
+      		"label": "圣萨尔瓦多",
+      		"value": "10",
+      		"children": [
+      			{
+      				"label": "圣萨尔瓦多", 
+      				"value": "SS"
+      			},
+      			{
+      				"label": "阿波帕", 
+      				"value": "APO"
+      			},
+      			{
+		          "label": "德尔加多",
+		          "value": "DE"
+		        },
+		        {
+		          "label": "伊洛潘戈",
+		          "value": "IL"
+		        },
+		        {
+		          "label": "索亚潘戈",
+		          "value": "SOY"
+		        },
+		        {
+		          "label": "滨海",
+		          "value": "LI"
+		        },
+		        {
+		          "label": "基埃-恩特姆",
+		          "value": "KN"
+		        },
+		        {
+		          "label": "梅基卡诺斯",
+		          "value": "MEJ"
+		        },
+		        {
+		          "label": "韦莱-恩萨斯",
+		          "value": "WN"
+		        },
+		        {
+		          "label": "中南",
+		          "value": "CS"
+		        }
+      		]
+      	},
+      	{
+      		"label": "圣维森特",
+      		"value": "11",
+      		"children": [
+      			{
+      				"label": "圣维森特",
+      				"value": "SV"
+      			}
+      		]
+      	},
+      	{
+      		"label": "圣安娜",
+      		"value": "12",
+      		"children": [
+      			{
+      				"label": "圣安娜",
+      				"value": "SA"
+      			}
+      		]
+      	},
+      	{
+      		"label": "松索纳特",
+      		"value": "13",
+      		"children": [
+      			{
+      				"label": "松索纳特", 
+      				"value": "SO"
+      			}
+      		]
+      	},
+      	{
+      		"label": "乌苏卢坦",
+      		"value": "14",
+      		"children": [
+      			{
+      				"label": "乌苏卢坦",
+      				"value": "US"
+      			}
+      		]
+      	}
       ]
-    
   },
   {
     "label": "萨摩亚",
@@ -29769,5 +29850,5 @@ var cityData={
         }
       ]
     }
-    ]
+  ]
 }
