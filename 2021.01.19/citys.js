@@ -17871,26 +17871,111 @@ var cityData={
   {
     "label": "菲律宾",
     "value": "PHL",
-    
-      "children": [
-        {
-          "label": "达沃",
-          "value": "DOR"
-        },
-        {
-          "label": "卡卢坎",
-          "value": "CAO"
-        },
-        {
-          "label": "马尼拉",
-          "value": "MNL"
-        },
-        {
-          "label": "宿务",
-          "value": "CEB"
-        }
-      ]
-    
+    	"children": [
+    		{
+    			"label": "吕宋",
+    			"value": "01",
+    			"children": [
+    				{
+          		"label": "马尼拉",
+          		"value": "MNL"
+        		},
+		        {
+		          "label": "卡卢坎",
+		          "value": "CAO"
+		        },
+        		{
+          		"label": "科迪勒拉大区",
+          		"value": "14"
+        		},
+        		{
+          		"label": "伊罗戈斯大区",
+          		"value": "01"
+        		},
+        		{
+          		"label": "卡加延河谷大区",
+          		"value": "02"
+        		},
+        		{
+          		"label": "中央吕宋大区",
+          		"value": "03"
+        		},
+        		{
+          		"label": "甲拉巴松大区",
+          		"value": "04"
+        		},
+        		{
+          		"label": "西南他加禄大区",
+          		"value": "17"
+        		},
+        		{
+          		"label": "比科尔大区",
+          		"value": "05"
+        		},
+    			]
+    		},
+    		{
+    			"label": "米沙鄢",
+    			"value": "02",
+    			"children": [
+    				{
+    					"label": "西米沙鄢大区",
+          		"value": "06"
+    				},
+    				{
+    					"label": "中米沙鄢大区",
+          		"value": "07",
+          		"children": [
+          			{
+				          "label": "宿务",
+				          "value": "CEB"
+				        }
+          		]
+          		
+    				},
+    				{
+    					"label": "东米沙鄢大区",
+          		"value": "08"
+    				}
+    			]
+    		},
+    		{
+    			"label": "棉兰老",
+    			"value": "03",
+    			"children": [
+    				{
+    					"label": "三宝颜半岛大区",
+          		"value": "09"
+    				},
+    				{
+    					"label": "北棉兰老大区",
+          		"value": "10"
+    				},
+    				{
+    					"label": "达沃大区",
+          		"value": "11",
+          		"children": [
+          			{
+				          "label": "达沃",
+				          "value": "DOR"
+				        }
+          		]
+    				},
+    				{
+    					"label": "南哥苏萨桑大区",
+          		"value": "12"
+    				},
+    				{
+    					"label": "棉兰老穆斯林自治区",
+          		"value": "15"
+    				},
+    				{
+    					"label": "卡拉加大区",
+          		"value": "16"
+    				}
+    			]
+    		}
+    	]
   },
   {
     "label": "斐济",
