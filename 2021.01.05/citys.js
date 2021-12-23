@@ -25228,6 +25228,14 @@ var cityData={
           "value": "AG"
         },
         {
+          "label": "内阿彭策尔",
+          "value": "AI"
+        },
+        {
+          "label": "外阿彭策尔",
+          "value": "AR"
+        },
+        {
           "label": "巴塞尔城市",
           "value": "BS"
         },
@@ -25240,12 +25248,12 @@ var cityData={
           "value": "BE"
         },
         {
-          "label": "楚格",
-          "value": "ZG"
-        },
-        {
           "label": "弗里堡",
           "value": "FR"
+        },
+        {
+          "label": "日内瓦",
+          "value": "GE"
         },
         {
           "label": "格拉鲁斯",
@@ -25254,6 +25262,10 @@ var cityData={
         {
           "label": "格劳宾登",
           "value": "GR"
+        },
+        {
+          "label": "汝拉",
+          "value": "JU"
         },
         {
           "label": "卢塞恩",
@@ -25268,68 +25280,56 @@ var cityData={
           "value": "NE"
         },
         {
-          "label": "内阿彭策尔",
-          "value": "AI"
-        },
-        {
-          "label": "日内瓦",
-          "value": "GE"
-        },
-        {
-          "label": "汝拉",
-          "value": "JU"
-        },
-        {
-          "label": "沙夫豪森",
-          "value": "SH"
+          "label": "下瓦尔登",
+          "value": "NW"
         },
         {
           "label": "上瓦尔登",
           "value": "OW"
         },
         {
-          "label": "圣加仑",
-          "value": "SG"
+          "label": "沙夫豪森",
+          "value": "SH"
         },
         {
           "label": "施维茨",
           "value": "SZ"
         },
         {
-          "label": "苏黎世",
-          "value": "ZH"
-        },
-        {
           "label": "索洛图恩",
           "value": "SO"
         },
         {
-          "label": "提契诺",
-          "value": "TI"
+          "label": "圣加仑",
+          "value": "SG"
         },
         {
           "label": "图尔高",
           "value": "TG"
         },
         {
-          "label": "瓦莱",
-          "value": "VS"
-        },
-        {
-          "label": "外阿彭策尔",
-          "value": "AR"
-        },
-        {
-          "label": "沃",
-          "value": "VD"
+          "label": "提契诺",
+          "value": "TI"
         },
         {
           "label": "乌里",
           "value": "UR"
         },
         {
-          "label": "下瓦尔登",
-          "value": "NW"
+          "label": "瓦莱",
+          "value": "VS"
+        },
+        {
+          "label": "沃",
+          "value": "VD"
+        },
+        {
+          "label": "楚格",
+          "value": "ZG"
+        },
+        {
+          "label": "苏黎世",
+          "value": "ZH"
         }
       ]
     
