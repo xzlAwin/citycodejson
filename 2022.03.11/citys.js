@@ -29303,39 +29303,82 @@ var cityData={
     
       "children": [
         {
-          "label": "阿什杜德",
-          "value": "ASH"
+        	"label": "耶路撒冷区",
+          "value": "01",
+          "children": [
+            {
+		          "label": "耶路撒冷",
+		          "value": "J"
+		        }
+          ]
         },
         {
-          "label": "贝尔谢巴",
-          "value": "BEV"
+        	"label": "北部区",
+          "value": "02",
+          "children": [
+            {
+            	"label": "拿撒勒",
+              "value": "01"
+            }
+          ]
         },
         {
-          "label": "贝特雁",
-          "value": "BAT"
+        	"label": "海法区",
+          "value": "03",
+          "children": [
+            {
+		          "label": "海法",
+		          "value": "HFA"
+		        }
+          ]
         },
         {
-          "label": "海法",
-          "value": "HFA"
+        	"label": "中央区",
+          "value": "04",
+          "children": [
+            {
+		          "label": "内坦亚",
+		          "value": "NAT"
+		        },
+		        {
+		          "label": "佩克提克瓦市",
+		          "value": "PTA"
+		        }
+          ]
         },
         {
-          "label": "霍隆",
-          "value": "HOL"
+        	"label": "特拉维夫区",
+          "value": "ASH",
+          "children": [
+            {
+		          "label": "特拉维夫",
+		          "value": "TLV"
+		        },
+		        {
+		          "label": "霍隆",
+		          "value": "HOL"
+		        },
+		        {
+		          "label": "贝特雁",
+		          "value": "BAT"
+		        }
+          ]
         },
         {
-          "label": "内坦亚",
-          "value": "NAT"
-        },
-        {
-          "label": "特拉维夫",
-          "value": "TLV"
-        },
-        {
-          "label": "耶路撒冷",
-          "value": "J"
+        	"label": "南部区",
+          "value": "06",
+          "children": [
+            {
+		          "label": "贝尔谢巴",
+		          "value": "BEV"
+		        },
+		        {
+		          "label": "阿什杜德",
+		          "value": "ASH"
+		        }
+          ]
         }
       ]
-    
   },
   {
     "label": "意大利",
