@@ -15,150 +15,140 @@ var cityData={
         "value": "11",
         "children": [
           {
-            "label": "城区",
-            "value": "01",
-            "children": [
-              {
-                "label": "东城",
-                "value": "01"
-              },
-              {
-                "label": "西城",
-                "value": "02"
-              },
-              {
-                "label": "朝阳",
-                "value": "05"
-              },
-              {
-                "label": "丰台",
-                "value": "06"
-              },
-              {
-                "label": "石景山",
-                "value": "07"
-              },
-              {
-                "label": "海淀",
-                "value": "08"
-              },
-              {
-                "label": "门头沟",
-                "value": "09"
-              },
-              {
-                "label": "房山",
-                "value": "11"
-              },
-              {
-                "label": "通州",
-                "value": "12"
-              },
-              {
-                "label": "顺义",
-                "value": "13"
-              },
-              {
-                "label": "昌平",
-                "value": "21"
-              },
-              {
-                "label": "大兴",
-                "value": "24"
-              },
-              {
-                "label": "平谷",
-                "value": "26"
-              },
-              {
-                "label": "怀柔",
-                "value": "27"
-              },
-              {
-                "label": "密云",
-                "value": "28"
-              },
-              {
-                "label": "延庆",
-                "value": "29"
-              }
-            ]
-          }]
+            "label": "东城",
+            "value": "01"
+          },
+          {
+            "label": "西城",
+            "value": "02"
+          },
+          {
+            "label": "朝阳",
+            "value": "05"
+          },
+          {
+            "label": "丰台",
+            "value": "06"
+          },
+          {
+            "label": "石景山",
+            "value": "07"
+          },
+          {
+            "label": "海淀",
+            "value": "08"
+          },
+          {
+            "label": "门头沟",
+            "value": "09"
+          },
+          {
+            "label": "房山",
+            "value": "11"
+          },
+          {
+            "label": "通州",
+            "value": "12"
+          },
+          {
+            "label": "顺义",
+            "value": "13"
+          },
+          {
+            "label": "昌平",
+            "value": "21"
+          },
+          {
+            "label": "大兴",
+            "value": "24"
+          },
+          {
+            "label": "平谷",
+            "value": "26"
+          },
+          {
+            "label": "怀柔",
+            "value": "27"
+          },
+          {
+            "label": "密云",
+            "value": "28"
+          },
+          {
+            "label": "延庆",
+            "value": "29"
+          }
+        ]
       },
       {
         "label": "天津",
         "value": "12",
-        "children": [
+    		"children": [
           {
-            "label": "城区",
-            "value": "01",
-            "children": [
-              {
-                "label": "和平",
-                "value": "01"
-              },
-              {
-                "label": "河东",
-                "value": "02"
-              },
-              {
-                "label": "河西",
-                "value": "03"
-              },
-              {
-                "label": "南开",
-                "value": "04"
-              },
-              {
-                "label": "河北",
-                "value": "05"
-              },
-              {
-                "label": "红桥",
-                "value": "06"
-              },
-              {
-                "label": "滨海新区",
-                "value": "26"
-              },
-              {
-                "label": "东丽",
-                "value": "10"
-              },
-              {
-                "label": "西青",
-                "value": "11"
-              },
-              {
-                "label": "津南",
-                "value": "12"
-              },
-              {
-                "label": "北辰",
-                "value": "13"
-              },
-              {
-                "label": "宁河",
-                "value": "21"
-              },
-              {
-                "label": "武清",
-                "value": "22"
-              },
-              {
-                "label": "静海",
-                "value": "23"
-              },
-              {
-                "label": "宝坻",
-                "value": "24"
-              },
-              {
-                "label": "蓟县",
-                "value": "25"
-              }
-            ]
-          }]
+            "label": "和平",
+            "value": "01"
+          },
+          {
+            "label": "河东",
+            "value": "02"
+          },
+          {
+            "label": "河西",
+            "value": "03"
+          },
+          {
+            "label": "南开",
+            "value": "04"
+          },
+          {
+            "label": "河北",
+            "value": "05"
+          },
+          {
+            "label": "红桥",
+            "value": "06"
+          },
+          {
+            "label": "滨海新区",
+            "value": "26"
+          },
+          {
+            "label": "东丽",
+            "value": "10"
+          },
+          {
+            "label": "西青",
+            "value": "11"
+          },
+          {
+            "label": "津南",
+            "value": "12"
+          },
+          {
+            "label": "北辰",
+            "value": "13"
+          },
+          {
+            "label": "宁河",
+            "value": "21"
+          },
+          {
+            "label": "武清",
+            "value": "22"
+          },
+          {
+            "label": "静海",
+            "value": "23"
+          },
+          {
+            "label": "宝坻",
+            "value": "24"
+          },
+          {
+            "label": "蓟县",
+            "value": "25"
+          }
+        ]
       },
       {
         "label": "河北",
@@ -3341,83 +3331,78 @@ var cityData={
         "value": "31",
         "children": [
           {
-            "label": "城区",
-            "value": "01",
-            "children": [
-              {
-                "label": "黄浦",
-                "value": "01"
-              },
-              {
-                "label": "卢湾",
-                "value": "03"
-              },
-              {
-                "label": "徐汇",
-                "value": "04"
-              },
-              {
-                "label": "长宁",
-                "value": "05"
-              },
-              {
-                "label": "静安",
-                "value": "06"
-              },
-              {
-                "label": "普陀",
-                "value": "07"
-              },
-              {
-                "label": "闸北",
-                "value": "08"
-              },
-              {
-                "label": "虹口",
-                "value": "09"
-              },
-              {
-                "label": "杨浦",
-                "value": "11"
-              },
-              {
-                "label": "闵行",
-                "value": "12"
-              },
-              {
-                "label": "宝山",
-                "value": "13"
-              },
-              {
-                "label": "嘉定",
-                "value": "14"
-              },
-              {
-                "label": "浦东新区",
-                "value": "15"
-              },
-              {
-                "label": "金山",
-                "value": "16"
-              },
-              {
-                "label": "松江",
-                "value": "17"
-              },
-              {
-                "label": "奉贤",
-                "value": "26"
-              },
-              {
-                "label": "青浦",
-                "value": "29"
-              },
-              {
-                "label": "崇明",
-                "value": "30"
-              }
-            ]
-          }]
+            "label": "黄浦",
+            "value": "01"
+          },
+          {
+            "label": "卢湾",
+            "value": "03"
+          },
+          {
+            "label": "徐汇",
+            "value": "04"
+          },
+          {
+            "label": "长宁",
+            "value": "05"
+          },
+          {
+            "label": "静安",
+            "value": "06"
+          },
+          {
+            "label": "普陀",
+            "value": "07"
+          },
+          {
+            "label": "闸北",
+            "value": "08"
+          },
+          {
+            "label": "虹口",
+            "value": "09"
+          },
+          {
+            "label": "杨浦",
+            "value": "11"
+          },
+          {
+            "label": "闵行",
+            "value": "12"
+          },
+          {
+            "label": "宝山",
+            "value": "13"
+          },
+          {
+            "label": "嘉定",
+            "value": "14"
+          },
+          {
+            "label": "浦东新区",
+            "value": "15"
+          },
+          {
+            "label": "金山",
+            "value": "16"
+          },
+          {
+            "label": "松江",
+            "value": "17"
+          },
+          {
+            "label": "奉贤",
+            "value": "26"
+          },
+          {
+            "label": "青浦",
+            "value": "29"
+          },
+          {
+            "label": "崇明",
+            "value": "30"
+          }
+        ]
       },
       {
         "label": "江苏",
@@ -9478,175 +9463,170 @@ var cityData={
         "value": "50",
         "children": [
           {
-            "label": "城区",
-            "value": "01",
-            "children": [
-              {
-                "label": "万州",
-                "value": "01"
-              },
-              {
-                "label": "涪陵",
-                "value": "02"
-              },
-              {
-                "label": "渝中",
-                "value": "03"
-              },
-              {
-                "label": "大渡口",
-                "value": "04"
-              },
-              {
-                "label": "江北",
-                "value": "05"
-              },
-              {
-                "label": "沙坪坝",
-                "value": "06"
-              },
-              {
-                "label": "九龙坡",
-                "value": "07"
-              },
-              {
-                "label": "南岸",
-                "value": "08"
-              },
-              {
-                "label": "北碚",
-                "value": "09"
-              },
-              {
-                "label": "两江新区",
-                "value": "85"
-              },
-              {
-                "label": "万盛",
-                "value": "10"
-              },
-              {
-                "label": "双桥",
-                "value": "11"
-              },
-              {
-                "label": "渝北",
-                "value": "12"
-              },
-              {
-                "label": "巴南",
-                "value": "13"
-              },
-              {
-                "label": "长寿",
-                "value": "21"
-              },
-              {
-                "label": "綦江",
-                "value": "22"
-              },
-              {
-                "label": "潼南",
-                "value": "23"
-              },
-              {
-                "label": "铜梁",
-                "value": "24"
-              },
-              {
-                "label": "大足",
-                "value": "25"
-              },
-              {
-                "label": "荣昌",
-                "value": "26"
-              },
-              {
-                "label": "璧山",
-                "value": "27"
-              },
-              {
-                "label": "梁平",
-                "value": "28"
-              },
-              {
-                "label": "城口",
-                "value": "29"
-              },
-              {
-                "label": "丰都",
-                "value": "30"
-              },
-              {
-                "label": "垫江",
-                "value": "31"
-              },
-              {
-                "label": "武隆",
-                "value": "32"
-              },
-              {
-                "label": "忠县",
-                "value": "33"
-              },
-              {
-                "label": "开县",
-                "value": "34"
-              },
-              {
-                "label": "云阳",
-                "value": "35"
-              },
-              {
-                "label": "奉节",
-                "value": "36"
-              },
-              {
-                "label": "巫山",
-                "value": "37"
-              },
-              {
-                "label": "巫溪",
-                "value": "38"
-              },
-              {
-                "label": "黔江",
-                "value": "39"
-              },
-              {
-                "label": "石柱",
-                "value": "40"
-              },
-              {
-                "label": "秀山",
-                "value": "41"
-              },
-              {
-                "label": "酉阳",
-                "value": "42"
-              },
-              {
-                "label": "彭水",
-                "value": "43"
-              },
-              {
-                "label": "江津",
-                "value": "81"
-              },
-              {
-                "label": "合川",
-                "value": "82"
-              },
-              {
-                "label": "永川",
-                "value": "83"
-              },
-              {
-                "label": "南川",
-                "value": "84"
-              }
-            ]
-          }]
+            "label": "万州",
+            "value": "01"
+          },
+          {
+            "label": "涪陵",
+            "value": "02"
+          },
+          {
+            "label": "渝中",
+            "value": "03"
+          },
+          {
+            "label": "大渡口",
+            "value": "04"
+          },
+          {
+            "label": "江北",
+            "value": "05"
+          },
+          {
+            "label": "沙坪坝",
+            "value": "06"
+          },
+          {
+            "label": "九龙坡",
+            "value": "07"
+          },
+          {
+            "label": "南岸",
+            "value": "08"
+          },
+          {
+            "label": "北碚",
+            "value": "09"
+          },
+          {
+            "label": "两江新区",
+            "value": "85"
+          },
+          {
+            "label": "万盛",
+            "value": "10"
+          },
+          {
+            "label": "双桥",
+            "value": "11"
+          },
+          {
+            "label": "渝北",
+            "value": "12"
+          },
+          {
+            "label": "巴南",
+            "value": "13"
+          },
+          {
+            "label": "长寿",
+            "value": "21"
+          },
+          {
+            "label": "綦江",
+            "value": "22"
+          },
+          {
+            "label": "潼南",
+            "value": "23"
+          },
+          {
+            "label": "铜梁",
+            "value": "24"
+          },
+          {
+            "label": "大足",
+            "value": "25"
+          },
+          {
+            "label": "荣昌",
+            "value": "26"
+          },
+          {
+            "label": "璧山",
+            "value": "27"
+          },
+          {
+            "label": "梁平",
+            "value": "28"
+          },
+          {
+            "label": "城口",
+            "value": "29"
+          },
+          {
+            "label": "丰都",
+            "value": "30"
+          },
+          {
+            "label": "垫江",
+            "value": "31"
+          },
+          {
+            "label": "武隆",
+            "value": "32"
+          },
+          {
+            "label": "忠县",
+            "value": "33"
+          },
+          {
+            "label": "开县",
+            "value": "34"
+          },
+          {
+            "label": "云阳",
+            "value": "35"
+          },
+          {
+            "label": "奉节",
+            "value": "36"
+          },
+          {
+            "label": "巫山",
+            "value": "37"
+          },
+          {
+            "label": "巫溪",
+            "value": "38"
+          },
+          {
+            "label": "黔江",
+            "value": "39"
+          },
+          {
+            "label": "石柱",
+            "value": "40"
+          },
+          {
+            "label": "秀山",
+            "value": "41"
+          },
+          {
+            "label": "酉阳",
+            "value": "42"
+          },
+          {
+            "label": "彭水",
+            "value": "43"
+          },
+          {
+            "label": "江津",
+            "value": "81"
+          },
+          {
+            "label": "合川",
+            "value": "82"
+          },
+          {
+            "label": "永川",
+            "value": "83"
+          },
+          {
+            "label": "南川",
+            "value": "84"
+          }
+        ]
       },
       {
         "label": "四川",
@@ -20169,111 +20149,256 @@ var cityData={
   {
     "label": "柬埔寨",
     "value": "KHM",
-    
-      "children": [
-        {
-          "label": "奥多棉吉",
-          "value": "OC"
-        },
-        {
-          "label": "白马市",
-          "value": "KB"
-        },
-        {
-          "label": "柏威夏",
-          "value": "PR"
-        },
-        {
-          "label": "拜林市",
-          "value": "PL"
-        },
-        {
-          "label": "班迭棉吉",
-          "value": "BM"
-        },
-        {
-          "label": "磅清扬",
-          "value": "KZC"
-        },
-        {
-          "label": "磅士卑",
-          "value": "KO"
-        },
-        {
-          "label": "磅同",
-          "value": "KZK"
-        },
-        {
-          "label": "磅湛",
-          "value": "KM"
-        },
-        {
-          "label": "波罗勉",
-          "value": "PG"
-        },
-        {
-          "label": "茶胶",
-          "value": "TK"
-        },
-        {
-          "label": "柴桢",
-          "value": "SVR"
-        },
-        {
-          "label": "干丹",
-          "value": "KL"
-        },
-        {
-          "label": "戈公",
-          "value": "KKZ"
-        },
-        {
-          "label": "贡布",
-          "value": "KMT"
-        },
-        {
-          "label": "金边市",
-          "value": "PNH"
-        },
-        {
-          "label": "桔井",
-          "value": "KH"
-        },
-        {
-          "label": "腊塔纳基里",
-          "value": "RBE"
-        },
-        {
-          "label": "马德望",
-          "value": "BA"
-        },
-        {
-          "label": "蒙多基里",
-          "value": "MWV"
-        },
-        {
-          "label": "菩萨",
-          "value": "PO"
-        },
-        {
-          "label": "上丁",
-          "value": "TNX"
-        },
-        {
-          "label": "西哈努克市",
-          "value": "KA"
-        },
-        {
-          "label": "暹粒",
-          "value": "REP"
-        }
-      ]
-    
+    "children":[
+    	{
+        "label": "金边市",
+        "value": "PNH"
+      },
+      {
+        "label": "班迭棉吉省",
+        "value": "BM",
+        "children":[
+        	{
+		        "label": "诗梳风",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "马德望省",
+        "value": "BA",
+        "children":[
+        	{
+		        "label": "马德望",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "磅湛省",
+        "value": "KM",
+        "children":[
+        	{
+		        "label": "磅湛",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "磅清扬省",
+        "value": "KZC",
+        "children":[
+        	{
+		        "label": "磅清扬",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "磅士卑省",
+        "value": "KO",
+        "children":[
+        	{
+		        "label": "磅士卑",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "磅通省",
+        "value": "KZK",
+        "children":[
+        	{
+		        "label": "磅通",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "唝吥省",
+        "value": "KMT",
+        "children":[
+        	{
+		        "label": "唝吥",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "甘丹省",
+        "value": "KL",
+        "children":[
+        	{
+		        "label": "大金欧",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "戈公",
+        "value": "KKZ",
+        "children":[
+        	{
+		        "label": "普明市",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "桔井省",
+        "value": "KH",
+        "children":[
+        	{
+		        "label": "桔井",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "蒙多基里",
+        "value": "MWV",
+        "children":[
+        	{
+		        "label": "森莫诺隆",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "柏威夏省",
+        "value": "PR",
+        "children":[
+        	{
+		        "label": "特崩棉则",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "波罗勉省",
+        "value": "PG",
+        "children":[
+        	{
+		        "label": "波罗勉",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "菩萨省",
+        "value": "PO",
+        "children":[
+        	{
+		        "label": "菩萨",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "拉达那基里省",
+        "value": "RBE",
+        "children":[
+        	{
+		        "label": "隆发",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "暹粒省",
+        "value": "REP",
+        "children":[
+        	{
+		        "label": "暹粒",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "西哈努克省",
+        "value": "KA",
+        "children":[
+        	{
+		        "label": "西哈努克市",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "上丁省",
+        "value": "TNX",
+        "children":[
+        	{
+		        "label": "上丁",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "柴桢省",
+        "value": "SVR",
+        "children":[
+        	{
+		        "label": "柴桢",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "茶胶省",
+        "value": "TK",
+        "children":[
+        	{
+		        "label": "茶胶",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "奥多棉芷省",
+        "value": "OC",
+        "children":[
+        	{
+		        "label": "三隆",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "白马省",
+        "value": "KB",
+        "children":[
+        	{
+		        "label": "白马市",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "拜林省",
+        "value": "PL",
+        "children":[
+        	{
+		        "label": "拜林市",
+		        "value": "01"
+		      }
+        ]
+      },
+      {
+        "label": "特本克蒙省",
+        "value": "24",
+        "children":[
+        	{
+		        "label": "三州府市",
+		        "value": "01"
+		      }
+        ]
+      }
+    ]
   },
   {
     "label": "捷克共和国",
     "value": "CZE",
-    
       "children": [
         {
           "label": "奥洛穆茨",
